@@ -23,9 +23,9 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  return parseInt(n);
+  return parseInt('n', 10);
 }
 
 function preserveDemimal(n) {
-  return parseFloat(n);
+  return parseFloat('n', 10);
 }
