@@ -29,4 +29,3 @@ function makeInt(n) {
 function preserveDemimal(n) {
   return parseFloat(n);
 }
-}
