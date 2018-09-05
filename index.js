@@ -27,5 +27,5 @@ function makeInt(n) {
 }
 
 function preserveDemimal(n) {
-  return parseFloat('n', 10);
+  return parseFloat('n',10);
 }
